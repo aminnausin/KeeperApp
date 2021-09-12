@@ -10,8 +10,8 @@ To Add:
 -Database to store notes
 
 <strong>Project Preview</strong>
-<div>
-<img src="./Preview_Images/img1.png" />
+
+<img src="./Preview_Images/img1.png" width="100%" />
 <img src="./Preview_Images/img2.png" />
 
-</div>
+
