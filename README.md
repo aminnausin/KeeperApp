@@ -11,7 +11,7 @@ To Add:
 
 <strong>Project Preview</strong>
 
-<img src="./Preview_Images/img1.png" width="100%" />
+<img src="./Preview_Images/img1.png" width="400" height = "500" />
 <img src="./Preview_Images/img2.png" />
 
 
